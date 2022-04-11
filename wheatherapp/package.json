@@ -1,0 +1,16 @@
+{
+  "name": "wheatherapp",
+  "version": "1.0.0",
+  "description": "Creating Weather App",
+  "main": "index1.js",
+  "dependencies": {
+    "nodemon": "^2.0.9",
+    "requests": "^0.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ashish",
+  "license": "ISC"
+}
